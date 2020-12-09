@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jae Hoon Lee"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "<br><b>Student Email:</b> lee963@wisc.edu<br><b>Gmail</b>: jaeconanwisc@gmail.com<br><br><b>Skills:<b/><br>Python<br>R<br>Stata<br>Latex<br><br>"
+  bio    : "<br><b>Student Email:</b> lee963@wisc.edu<br><b>Gmail</b>: jaeconanwisc@gmail.com<br><br><b>Skills:</b><br>Python<br>R<br>Stata<br>Latex<br><br>"
   links:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
