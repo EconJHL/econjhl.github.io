@@ -3,7 +3,7 @@ permalink: /writingsample/
 title: "Writing Sample"
 ---
 
-## 1. The effects of the rapid rise of Supermarkets on South Korea Retail
+## 1. The effects of the rapid rise of supermarkets on South Korea retail
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/pdfs/koreajapangdp.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
 
 ## 2. The GDP Relationship between South Korea and Japan
